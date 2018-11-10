@@ -25,6 +25,7 @@
       <url>http://repo1.maven.org/maven2</url>
       <snapshots>
         <enabled>false</enabled>
+        <url>http://54.205.113.163:8081/repository/mypro_snap/</url>
       </snapshots>
     </repository>
   </repositories>
