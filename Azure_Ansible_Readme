@@ -6,6 +6,8 @@ Ansible includes a suite of Ansible modules that can be executed directly on rem
 
 For interacting with Azure services, Ansible includes a suite of Ansible cloud modules that provides the tools to easily create and orchestrate your infrastructure on Azure.
 
+#Version 1.0.0
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
